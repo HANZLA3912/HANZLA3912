@@ -170,7 +170,7 @@
 ## DESIGN
 ![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-###IDE
+### IDE
 ![COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![NOTEPAD++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
@@ -182,10 +182,7 @@
 ![matplotlib](https://badgen.net/badge/matplotlib/MATPLOTLIB?label=&color=black&labelColor=black&icon=https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg) <!--- TODO: Add shields.io matplotlib badge -->
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### ORM
-![Eloquent](https://badgen.net/badge/Eloquent/ELOQUENT?label=&color=black&labelColor=black&icon=https://cdn.worldvectorlogo.com/logos/laravel-2.svg) <!--- TODO: Add shields.io Eloquent badge -->
-![SQL Alchemy](https://badgen.net/badge/SQLAlchemy/SQLALCHEMY?label=&color=black&labelColor=black&icon=https://user-images.githubusercontent.com/128223/153606192-c117618d-cabf-49c4-9204-d7f1afe24289.svg) <!--- TODO: Add shields.io SQLAlchemy badge -->
-![Typeform](https://img.shields.io/badge/Typeform-262627?style=for-the-badge&logo=typeform&logoColor=white)
+
 
 
 ### Programming & Markdown, Styling Languages
